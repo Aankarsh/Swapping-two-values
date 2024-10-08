@@ -21,16 +21,13 @@ End the program
 ```
 # Developed by: Aankarsh J
 # Register no: 24013602
-x = eval(input())
-y = eval(input())
-temp = x
-x = y
-y = temp
-print("Swapped values are:",x,y)
+![image](https://github.com/user-attachments/assets/ed6f76f4-3a65-4e49-a44b-e5dfd23c5cbe)
+
 ```
 
 ## Output
-![ff](https://github.com/user-attachments/assets/5b89b00a-4e5d-4c7a-9b84-bbce29a6cd63)
+![Screenshot 2024-10-08 094136](https://github.com/user-attachments/assets/17d32a56-4b91-43a6-9c04-8ffe69d25429)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
