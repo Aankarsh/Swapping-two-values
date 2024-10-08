@@ -1,4 +1,5 @@
-# Swapping-two-values
+## DATE:
+# EX NO:1-Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -21,7 +22,11 @@ End the program
 ```
 # Developed by: Aankarsh J
 # Register no: 24013602
-![image](https://github.com/user-attachments/assets/ed6f76f4-3a65-4e49-a44b-e5dfd23c5cbe)
+import numpy as np
+a=np.array([[1,3],[2,5]])
+b=np.array([5,-3])
+x=np.linalg.solve(a,b)
+print(x)
 
 ```
 
